@@ -649,6 +649,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		margin-bottom: 15px;
 	}
 
 		.image:before {
