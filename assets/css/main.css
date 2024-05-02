@@ -680,18 +680,28 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
-			padding: 0.5em 0.5em 0.5em 0.5em;
-			margin-top: 50px;
+			padding: 0em 0.5em 0em 0em;
+			margin-top: 25px;
 			margin-right: 5px;	
-			margin-bottom: 50px;
+			margin-bottom: 25px;
+		}
+		.image.right {
+			float: right;			
+			padding: 0em 0em 0em 0.5em;
+			margin-top: 25px;				
+			margin-bottom: 25px;
+			margin-left: 5px;
+			overflow: hidden;				
 		}
 
-		.image.right {
-			float: right;
+		.image.stay {
+			display: inline-flex;
 			padding: 0.5em 0.5em 0.5em 0.5em;
-			margin-top: 50px;				
+			margin-top: 35px;				
 			margin-bottom: 50px;
-			margin-left: 5px;				
+			margin-left: 275px;
+			margin-right: 100px;
+			overflow: hidden;				
 		}
 
 		.image.fit {
