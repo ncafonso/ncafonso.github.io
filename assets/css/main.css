@@ -681,7 +681,7 @@ input, select, textarea {
 			float: left;
 			padding: 0.5em 0.5em 0.5em 0.5em;
 			margin-top: 50px;
-			margin-right: 75px;	
+			margin-right: 5px;	
 			margin-bottom: 50px;
 		}
 
@@ -690,7 +690,7 @@ input, select, textarea {
 			padding: 0.5em 0.5em 0.5em 0.5em;
 			margin-top: 50px;				
 			margin-bottom: 50px;
-			margin-left: 75px;				
+			margin-left: 5px;				
 		}
 
 		.image.fit {
