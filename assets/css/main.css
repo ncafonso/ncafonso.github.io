@@ -745,7 +745,7 @@ input, select, textarea {
 video {
 	width: 100%;
 	height: auto;
-	margin-bottom: 30px;
+	margin-bottom: 15px;
   }
   .video.left, .video.right {
 	max-width: 50%;
@@ -755,7 +755,7 @@ video {
 	padding: 0em 0em 0em 0em;
 	margin-top: 0px;
 	margin-right: 30px;	
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 	top: 0.25em;
 }
 
@@ -763,7 +763,7 @@ video {
 	float: right;
 	padding: 0em 0em 0em 0em;
 	margin-top: 0px;				
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	margin-left: 30px;
 	top: 0.25em;			
 }
